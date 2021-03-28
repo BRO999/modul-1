@@ -1,0 +1,9 @@
+.img_item{
+    width: 50%;float:left;
+    height: 400px;
+}
+.img_block{
+    width:100%;
+    display: block;
+    
+}

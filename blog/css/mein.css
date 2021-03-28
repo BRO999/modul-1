@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+}
+header {
+  background: greenyellow;
+  padding-top: 50px;
+  padding-bottom: 35px;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+header a {
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.section_title {
+  text-transform: uppercase;
+}
+#Portfolio {
+  background-color: #eeeeee;
+}
+.te {
+  color: green;
+}
+p {
+  font-family: "Courier New, Courier";
+}
+.tex {
+  color: red;
+}
+.rty {
+  color: plum;
+}
+#bl {
+  color: blueviolet;
+}
+#tr {
+  color: purple;
+}
+#rt {
+  color: grey;
+}
+#ry {
+  color: yellow;
+}
+p {
+  width: 500px;
+  margin: 0 auto;
+}
